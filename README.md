@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## My accounts:
+  [LinkedIn](https://www.linkedin.com/in/deepanshu-6704532ab/)
+  [Leetcode](https://leetcode.com/DDeepanshu99/)
+
 <!--
 **DDeepanshu99/DDeepanshu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
