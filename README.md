@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I am currectly learning WebDev
 
 ## My accounts:
   [LinkedIn](https://www.linkedin.com/in/deepanshu-6704532ab/)
